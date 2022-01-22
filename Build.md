@@ -22,4 +22,4 @@ use `build.sh` (Do this in Git Bash if you are in windows!)
 
 **NOTE:** Running the above WILL DOWNLOAD AND INSTALL raylib.
 
-Once this is done, the executable will be present in `build/Debug/`.
+Once this is done, the executable will be present in the build folder.

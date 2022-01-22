@@ -1,5 +1,7 @@
 # FSVIEW
 
+FSVIEW is a graphical file system visualizer.
+
 Prompt of choice: "Create a file system visualizer using trees."
 
 ## Controls
