@@ -9,7 +9,7 @@
 
 class App; // Allow reference to app.
 
-const int WEIGHT_TABLE_SIZE = 7;
+const int WEIGHT_TABLE_SIZE = 4;
 const double WEIGHT_TABLE[WEIGHT_TABLE_SIZE] = {1.0, 3.0, 3.1, 3.2};
 const double WEIGHT_LARGE = 3.6;
 
